@@ -22,13 +22,13 @@ The last step of analysis was done against the full set of news headlines to fin
 
 The chart for Zika virus outbreaks over the entire world is shown below. As can be seen, the Zika outbreak is mostly concentrated around central America, including parts of the southern United States. Other parts of the world affected by the Zika virus include significant portions of South America, portions of South East Asia, and Eastern Australia. Because of the simultaneous occurrence across multiple regions across the globe, the Zika virus outbreak can legitimately be considered a pandemic.
 
-<img src="data/chart-world.png"/>
+<img src="data/chart-world.png?id=1"/>
 
 The data also shows that the United States is one of the countries that has been most heavily hit by the Zika outbreak. Infections seem to be mostly concentrated in the states of Florida and Texas.
 
-<img src="data/chart-usa.png"/>
+<img src="data/chart-usa.png?id=1"/>
 
 ## Discussion
 
-The charts above indicate that the Zika outbreak is mostly concentrated around Central America, with the United States heavily hit. In addition, South East Asia has also been quite heavily hit. This report recommends that the WHO concentrate their containment efforts to these regions.
+The charts above indicate that the Zika outbreak is mostly concentrated around Central America, with parts of Southern US and northern countries of South America particularly heavily hit. In addition, some countries of South East Asia, including the northern part of India, also show signs of a Zika outbreak. Countries in other parts of the world have also been affected to a lesser extent. This report recommends that the WHO treat this as a pandemic, and concentrate their containment efforts to these regions.  
 
